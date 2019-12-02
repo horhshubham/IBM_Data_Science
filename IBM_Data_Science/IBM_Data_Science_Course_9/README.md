@@ -1,2 +1,2 @@
-# github-example
-This repository is a demonstration of how to create a Github repository and properly set it up 
+# IBM Data Science (Course 9)
+This repository contains assignment of IBM Data Science (Course 9)
